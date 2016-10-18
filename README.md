@@ -18,7 +18,7 @@ feeling-lucky), a [wiki: test] link to a Wikipedia page, and a link to
 Now some inline markup like _italics_,  **bold**, and `code()`. Note that underscores in 
 words are ignored in Markdown Extra.
 
-![picture alt](/images/photo.jpeg "Title is optional")     
+![picture alt](/photo.png "Title is optional")     
 
 > Blockquotes are like quoted text in email replies
 >> And, they can be nested
@@ -65,10 +65,10 @@ block.
 
 ## Markdown plus tables ##
 
-| Header | Header | Right  |
-| ------ | ------ | -----: |
-|  Cell  |  Cell  |   $10  |
-|  Cell  |  Cell  |   $20  |
+| Header | Header | Right    |
+| ------ | ------ | -----:   |
+|  Cell  |  Cell  |   $1000  |
+|  Cell  |  Cell  |   $2000  |
 
 * Outer pipes on tables are optional
 * Colon used for alignment (right versus left)
