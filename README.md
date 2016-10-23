@@ -7,7 +7,7 @@
 
 1. Clonar:
  
-	git clone git@github.com:jbCiff/campusciff.git
+    git clone git@github.com:jbCiff/campusciff.git
 
 
 And now some code:
