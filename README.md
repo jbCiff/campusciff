@@ -54,19 +54,25 @@ git push origin master
 
 ### Rama v2.0
 
+Crear rama y fichero 2.0.txt
 ~~~
 git branch v2.0
 git checkout v2.0
 git add 2.txt
 git commit -m "rama 2.0"
-git push origin master
 ~~~
 
 
+posicionarse en el master
+~~~
+git checkout master
+~~~
 
 
-
-
+unir las ramas
+~~~
+git checkout master
+~~~
 
 
 
