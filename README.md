@@ -1,4 +1,4 @@
-# 1 Parte 1 #
+# Parte 1 #
 
 ### Clonar:
 
@@ -36,12 +36,46 @@ git push origin master
 ~~~
 
 
---------------------------
-# 1 Parte 2 #
 
+### Listado
 
 | Nombre   | GITHUB                                   |
 | ------   | -----:                                   |
 |  ediboc  |   git@github.com:jbCiff/CampusCiff-1.git |
 |  vacio   |   -                                      |
 |  vacio   |   -                                      |
+
+
+
+--------------------------
+
+# Parte 2 #
+
+
+### Rama v2.0
+
+~~~
+git branch v2.0
+git checkout v2.0
+git add 2.txt
+git commit -m "rama 2.0"
+git push origin master
+~~~
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
