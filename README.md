@@ -5,9 +5,10 @@
 ##### Header 5 #####
 
 
-1. Clonar: 
+1. Clonar:
+ 
 	git clone git@github.com:jbCiff/campusciff.git
 
 
-*
+
 --------------------------
