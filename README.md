@@ -34,8 +34,8 @@ git push origin master
 # 1 Parte 2 #
 
 
-| Header | Header | Right  |
-| ------ | ------ | -----: |
-|  Cell  |  Cell  |   $10  |
-|  Cell  |  Cell  |   $20  |
-
+| Nombre   | GITHUB                                   |
+| ------   | -----:                                   |
+|  ediboc  |   git@github.com:jbCiff/CampusCiff-1.git |
+|  vacio   |   -                                      |
+|  vacio   |   -                                      |
