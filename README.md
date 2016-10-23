@@ -1,13 +1,13 @@
 # 1 Parte 1 #
 
-## Clonar:
+### Clonar:
 
 ~~~
 git clone git@github.com:jbCiff/campusciff.git
 ~~~
 
 
-## Escribir en .gitignore: 
+### Escribir en .gitignore: 
 
 + privada
 + privada.txt
@@ -15,13 +15,13 @@ git clone git@github.com:jbCiff/campusciff.git
 
 
 
-## añadir tag a fichero 1.txt
+### añadir tag a fichero 1.txt
 
 ~~~
 git tag v0.1
 ~~~
 
-## subir cambios del fichero 1.txt
+### subir cambios del fichero 1.txt
 ~~~
 git add 1.txt
 git commit -m "etiqueta v0.1"
