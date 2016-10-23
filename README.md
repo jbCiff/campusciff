@@ -71,13 +71,24 @@ git checkout master
 
 unir las ramas
 ~~~
-git checkout master
+git checkout v0.2
 ~~~
 
 
+unir las ramas con conflictos
+~~~
+git checkout v0.2
+~~~
 
+Aqui solucionar los conflictos manualmente (notepad), después
+~~~
+git add 1.txt
+git commit -m "merged master"
+~~~
 
+Imagen de las ramas unidas
 
+![picture alt](/ramas_unidas.png) 
 
 
 
