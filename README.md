@@ -28,6 +28,12 @@ git commit -m "etiqueta v0.1"
 git push origin master
 ~~~
 
+### Subir arhivo README.md
+~~~
+git add README.md
+git commit -m "commit inicial 2"
+git push origin master
+~~~
 
 
 --------------------------
